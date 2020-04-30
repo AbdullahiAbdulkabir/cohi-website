@@ -1,3 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
 body{
 /*font-family: 'Lobster', cursive;*/
 font-family: 'Taviraj', serif;
@@ -9,10 +12,6 @@ font-family: 'Taviraj', serif;
 background-color: rgb(82, 86, 89);
 padding: 10em;
 
-/*position: absolute;
-left: 0px;
-top: 65em;
-z-index: -1;*/
 }
 .coordinator{
 	padding: 30px;
