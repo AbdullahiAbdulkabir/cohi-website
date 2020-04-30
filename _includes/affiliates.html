@@ -1,0 +1,14 @@
+<div class="affiliate">
+	<div class="row offset-md-1">
+		{% for item in site.data.affiliates %}
+			<img src="{{ item.link }}" alt="{{ item.name }}" class=" col-1  rounded-circle">
+		{% if item.lin.count >= 10 %}
+		asdas
+		{%endif%}
+
+		
+		  {% endfor %}
+
+	</div>
+	<!-- <div class="row"></div> -->
+</div>

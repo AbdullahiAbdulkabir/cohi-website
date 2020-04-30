@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{page.title |COHI }}</title>
+    
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Lobster|Taviraj&display=swap" rel="stylesheet">
+
+</head>
+<body>  
+	{% include navigation.html %}
+	{% include carousel.html %}
+	
+    {{ content }}
+</body>
+
+<script type="text/javascript" src="assets/js/jquery-3.4.1.min.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+
+</html>
