@@ -7,6 +7,13 @@ font-family: 'Taviraj', serif;
 }
 .ge{
 	background-color: grey;
+	padding: 40px;
+}
+.affliate{
+	padding: 40px;
+}
+.affliate hr{
+	width:50%;
 }
 .event{
 background-color: rgb(82, 86, 89);
