@@ -166,75 +166,33 @@ a {
  }
 }
 
-/*team card stying*/
-
-.card.hovercard{
-  border: 0px;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
-
-}
-.card.hovercard .cardheader {
-  background: #2F5BE7;
-  background-size: cover;
-  height: 130px;
-  border: 0;
-  border-radius: 8px 8px 0 0;
+/* equal card height */
+.row-equal > div[class*='col-'] {
+    display: flex;
+    flex: 1 0 auto;
 }
 
-.card.hovercard .avatar {
-  position: relative;
-  top: -50px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: -50px;
+.row-equal .card {
+   width: 100%;
 }
 
-.card.hovercard .avatar img {
-  width: 100px;
-  height: 100px;
-  max-width: 100px;
-  max-height: 100px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  border-radius: 50%;
-  border: 5px solid rgba(255,255,255,0.5);
+/* ensure equal card height inside carousel */
+.carousel-inner>.row-equal.active, 
+.carousel-inner>.row-equal.next, 
+.carousel-inner>.row-equal.prev {
+    display: flex;
 }
 
-.card.hovercard .info {
-  padding: 4px 8px 2px;
-  text-align: center;
-
+/* prevent flicker during transition */
+.carousel-inner>.row-equal.active.left, 
+.carousel-inner>.row-equal.active.right {
+    opacity: 0.5;
+    display: flex;
 }
 
-.card.hovercard .info .title h5 {
-  margin-bottom: 2px;
-  font-size: 18px;
-  line-height: 1;
-  color: #262626;
-}
-.card.hovercard .info .title p {
-  color: #262626;
-}
 
-.card.hovercard .info .title p {
-  border-radius: 25px;
+/* control image height */
+.card-img-top-250 {
+    max-height: 250px;
+    overflow:hidden;
 }
-.card.hovercard .info .desc {
-  overflow: hidden;
-  font-size: 12px;
-  line-height: 20px;
-  color: #737373;
-  text-overflow: ellipsis;
-}
-.card.hovercard .bottom{
-  padding: 0 20px;
-  margin-bottom: 10px;
-  margin-left: auto;
-  margin-right: auto;
-}
-.card.hovercard .bottom ul li a i{
-  color: #2F5BE7;
-  font-size: 16px;
-  margin: 0;
-}
-/*end team card stying*/
