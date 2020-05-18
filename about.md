@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About COHI
+title: About COHI - MSSNLagos
 bimg: https://via.placeholder.com/10
 
 ---
