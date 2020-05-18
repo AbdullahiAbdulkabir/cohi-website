@@ -9,11 +9,10 @@ bimg: https://via.placeholder.com/10
 
 
 <div class="container">
-	<div class="text-center">
+	<div class="text-center mb-5">
 		<h2 class="font-weight-bold mt-5">COUNCIL OF HIGHER INSTITUTIONS</h2>
 		<h3>An Organ of MSSN Lagos State Area Unit</h3>
 	</div>
-	<br/>
 	<div class="row">
 		<div class="col-md-3">
 			<h4 class="mb-3">About COHI</h4>
