@@ -15,6 +15,28 @@ color: #fff;
 .head h6{
 	font-size: 1.2vw;
 }
+.head img{
+	height: 24vh;
+}
+.hero{
+	background: url('../imgs/bg.jpeg');
+	background-size: cover;
+	color: #fff;
+	background-repeat: no-repeat;
+	height: auto; 
+}
+
+.hero .learn{
+	/*border: 2px solid #fff;*/
+	background: rgba(0,219,215,100); 
+	color: white;
+}
+.hero .contact-us{
+	/*border: 2px solid #fff;*/
+	background-color: #0000002b; 
+	color: white;
+	border: 1.5px solid;
+}
 .ge{
 	/*background-color: grey;*/
 	/*padding: 40px;*/
@@ -45,7 +67,7 @@ ul {
  margin:0
 }
 li {
- list-style:none
+ list-style:none;
 }
 a:focus,a:hover {
  text-decoration:none;
@@ -54,17 +76,9 @@ a:focus,a:hover {
  transition:.3s ease
 }
 a:focus {
- outline:0
+ outline:0;
 }
-img {
- max-width:100%
-}
-/*p {*/
-/* font-size:16px;
- line-height:30px;
- color:#898b96;
- font-weight:300
-}*/
+
 h4 {
  font-family:Rubik,sans-serif;
  margin:0;
@@ -117,6 +131,11 @@ a {
 }
 .footer-menu {
  padding-left:48px
+}
+.quick-links ul li:before{
+content: ">>";
+  font-size: 12px;
+
 }
 .footer-menu ul li a {
  font-size:15px;
