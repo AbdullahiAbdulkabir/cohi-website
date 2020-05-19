@@ -48,7 +48,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 		</div>
 		<div class="col-md-3">
-			<img src="{{page.bimg}}" alt="about us"></div>
+			<img src="{{page.bimg}}" class="img-fluid" alt="about us"></div>
 	</div>
 	<!-- executives -->
 	<div class="text-center mb-5">
