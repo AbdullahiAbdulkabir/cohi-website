@@ -169,7 +169,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 			<h3 class=" mt-5">Our Prgrammes</h3>
 		</div>
 		<div class="row"> 
-			<div class="col-md-6">
+			<div class="col-md-6 mb-3">
 				<h4 class="mb-4">Excepteur sint occaeuiecat</h4>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -182,7 +182,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 					<span class="float-right">webpage</span>
 				</div>
 			</div>
-			<div class="col-md-6">
+			<div class="col-md-6 mb-3">
 				<h4 class="mb-4">Excepteur sint occaeuiecat</h4>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -197,7 +197,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 			</div>
 		</div> 
 		<div class="row mt-5"> 
-			<div class="col-md-6">
+			<div class="col-md-6 mb-3">
 				<h4 class="mb-4">Excepteur sint occaeuiecat</h4>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
