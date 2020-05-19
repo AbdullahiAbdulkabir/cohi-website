@@ -23,28 +23,49 @@ color: #fff;
 	background-size: cover;
 	color: #fff;
 	background-repeat: no-repeat;
-
-	height: 100vh; 
+	height: 120vh; 
 }
+/*.hero:before {
+    background-color: rgba(19, 103, 208, 0.41);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}*/
 .hero h2{
-	
+
 	font-size: 3.5vw;
 }
 
 .hero .learn{
-	/*border: 2px solid #fff;*/
+	
 	background: rgba(0,219,215,100); 
-	color: white;
+	color: #fff;
 }
 .hero .contact-us{
-	/*border: 2px solid #fff;*/
 	background-color: #0000002b; 
-	color: white;
+	color: #fff;
 	border: 1.5px solid;
 }
 .ge{
-	/*background-color: grey;*/
-	/*padding: 40px;*/
+	margin-top: -3em;
+	background-color: #fff;	
+}
+.right-col{
+	border-right: 1.5px solid #60c4a1;
+}
+.first-content{
+	line-height: 1.6;
+}
+.first-content h6{
+	border-bottom: 1.5px solid #60c4a1;
+
+
+}
+.btn-read{
+	background:#fff;
+	border: 1px solid black;
 }
 .affliate{
 	padding: 40px;
@@ -226,6 +247,10 @@ content: ">>";
 }
 .hero h2{
 	font-size: 8vw
+}
+.right-col{
+	border-right: 0px;
+	margin-bottom: 20px;
 }
 }
 
