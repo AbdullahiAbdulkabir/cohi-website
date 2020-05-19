@@ -38,8 +38,7 @@ color: #fff;
 	font-size: 3.5vw;
 }
 
-.hero .learn{
-	
+.hero .learn ,.event button{	
 	background: rgba(0,219,215,100); 
 	color: #fff;
 }
@@ -70,16 +69,31 @@ color: #fff;
 .affliate{
 	padding: 40px;
 }
+.affiliate-yl{
+	background: #fff;
+}
+.affiliate-yl .butto{
+
+}
 .affliate hr{
 	width:50%;
 }
 .event{
-background-color: rgb(82, 86, 89);
-padding: 10em;
+/*margin-top: -3em;*/
+background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/diver2.jpg);
+background-size: cover; 
+/*background-color: rgba(4, 29, 60, 1);*/
+border-radius:260px 260px 0px 0px;
+color: #fff;
 
 }
 .coordinator{
-	padding: 30px;
+	background:#f8f9fb;
+	/*padding: 30px;*/
+}
+.color-center{
+background-color: #6cdbb4;
+border-radius:260px 260px 0px 0px;
 }
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,700);
 body {
@@ -251,6 +265,9 @@ content: ">>";
 .right-col{
 	border-right: 0px;
 	margin-bottom: 20px;
+}
+.event h3,h1{
+	font-size: 5.2vw;
 }
 }
 

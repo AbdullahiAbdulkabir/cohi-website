@@ -2,8 +2,10 @@
 # front matter tells Jekyll to process Liquid
 layout: default
 title: COUNCIL OF HIGHER INSTITUTIONS - MSSNLagos
-coordimg: https://via.placeholder.com/250
+coordimg: assets/imgs/cordinator-image.png
 bimg: https://via.placeholder.com/10
+upcomingevent: Capacity Building Course
+ueventtag: CBC2020
 ---
 	<div class="hero p-5 ">
 		<!-- <div class="layer">
@@ -52,37 +54,56 @@ bimg: https://via.placeholder.com/10
 		</div>
 	</div>
 </div>
-<div class="container-fluid event text-center">
-	<h3>Upcoming Events</h3>
+<div class="container-fluid event text-center p-5">
+	<h3>UPCOMING EVENT</h3>
+	<h1>{{page.upcomingevent}}</h1>
+	<h1>#{{page.ueventtag}}</h1>
 	<button class="btn btn-info">Register</button>
 </div>
-<div class="container coordinator">
-	<div class="row mb-4">
-	<div class="col-md-4 col-sm-2 offset-md-2">
-		<img src="{{page.coordimg}}">
-	</div>
-	<div class="col-md-5 col-sm-8">
-		<h3>FROM THE CORDINATOR</h3>
-			<strong>- A A</strong>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-			</p>
-	</div>
-		
+<div class="container p-5">
+	<div class="row mb-4 coordinator ">
+		<div class="col-md-4 col-sm-2 offset-md-2">
+			<img src="{{page.coordimg}}">
+		</div>
+		<div class="col-md-5 col-sm-8 p-3">
+			<h3>FROM THE CORDINATOR</h3>
+				<strong>- A A</strong>
+				<p>
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+				</p>
+		</div>	
 	</div> 
+</div>
+	<div class="color-center">
+	
 {% include affiliates.html %}
+	</div>
+<div class="container p-5">
 
-	<div class="mb-4"> 
-		<h1>From the Blog</h1>
-		<h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit,</h4>
+	<div class="mb-4 mt-4 row"> 
+		<div class="col-md-4 col-sm-12">
+		<h4>OUR LATEST NEWS</h4>
+		<h3>Read our latest Articles, Tips & News</h3>
+		</div>
+		<div class="col-md-8">
+			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+		
+		</div>
 	</div>
 	<div class="row">
-		<div class="col-md-4 col-sm-8">
+		<div class="col-md-4 col-sm-8 ">
 			
 			<div class="card">
 				<img class="card-img-top" src="{{page.bimg}}" height="150" alt="Card image cap">
@@ -90,9 +111,7 @@ bimg: https://via.placeholder.com/10
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					<br/><strong>Jan, 2020</strong>
 				</div>
 			</div>
 		</div>
@@ -104,9 +123,7 @@ bimg: https://via.placeholder.com/10
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					<br/><strong>Jan, 2020</strong>
 				</div>
 			</div>
 		</div>
@@ -117,9 +134,7 @@ bimg: https://via.placeholder.com/10
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					<br/><strong>Jan, 2020</strong>
 				</div>
 			</div>
 		</div>

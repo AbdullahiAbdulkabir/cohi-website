@@ -1,14 +1,16 @@
-<div class="affiliate">
-	<div class="row offset-md-1">
+<div class="container affiliate-yl">
+	<h3 class="text-center font-weight-bold">Our affilitates</h3>
+	<div class="row">
 		{% for item in site.data.affiliates %}
-			<img src="{{ item.link }}" alt="{{ item.name }}" class=" col-1  rounded-circle">
-		{% if item.lin.count >= 10 %}
-		asdas
-		{%endif%}
-
+		<div class="col">
+			
+			<img src="{{ item.link }}" alt="{{ item.name }}"  class=" rounded-circle">
+		</div>
 		
-		  {% endfor %}
-
+		  {% endfor %} 
 	</div>
+		  <div class="m-5 text-center ">
+				<a href="#"><button class="btn  btn-lg btn-read p-3">Learn more <i class="fa fa-arrow-right "></i></button></a>
+		  </div>
 	<!-- <div class="row"></div> -->
 </div>
