@@ -72,6 +72,9 @@ color: #fff;
 .affiliate-yl{
 	background: #fff;
 }
+.ffiliate-yl .col-sm-2 {
+	width: 0;
+}
 .affiliate-yl .butto{
 
 }
