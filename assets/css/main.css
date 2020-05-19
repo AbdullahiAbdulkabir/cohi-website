@@ -247,6 +247,9 @@ content: ">>";
  .footer-menu {
   padding-left:0
  }
+ .head img{
+	height: 14vh
+}
 }
 @media (max-width:641px) {
  .head h3{
