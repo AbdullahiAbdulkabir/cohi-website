@@ -5,9 +5,13 @@ body{
 /*font-family: 'Lobster', cursive;*/
 font-family: 'Taviraj', serif;
 }
+.head {
+background: #212240;
+color: #fff;
+}
 .ge{
-	background-color: grey;
-	padding: 40px;
+	/*background-color: grey;*/
+	/*padding: 40px;*/
 }
 .affliate{
 	padding: 40px;
@@ -165,6 +169,18 @@ a {
   padding-left:0
  }
 }
+@media (max-width:641px) {
+ .head h3{
+ 	font-size: 20px;
+}
+.head h6{
+	font-size: 15px;
+}
+.head img{
+	/*width: */
+}
+}
+
 
 /* equal card height */
 .row-equal > div[class*='col-'] {
