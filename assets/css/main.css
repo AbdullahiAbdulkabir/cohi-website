@@ -23,7 +23,12 @@ color: #fff;
 	background-size: cover;
 	color: #fff;
 	background-repeat: no-repeat;
-	height: auto; 
+
+	height: 100vh; 
+}
+.hero h2{
+	
+	font-size: 3.5vw;
 }
 
 .hero .learn{
@@ -215,6 +220,12 @@ content: ">>";
 }
 .head img{
 	height: 14vh
+}
+.hero{
+	height: 80vh; 
+}
+.hero h2{
+	font-size: 8vw
 }
 }
 
