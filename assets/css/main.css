@@ -19,7 +19,7 @@ color: #fff;
 	height: 24vh;
 }
 .hero{
-	background: url('../imgs/h_bg.jpg');
+	background: url('../imgs/h_bg.png');
 	background-size: cover;
 	color: #fff;
 	background-repeat: no-repeat;
@@ -83,7 +83,7 @@ color: #fff;
 }
 .event{
 /*margin-top: -3em;*/
-background: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/46992/diver2.jpg);
+background: url('../imgs/event.png');
 background-size: cover; 
 /*background-color: rgba(4, 29, 60, 1);*/
 border-radius:260px 260px 0px 0px;
