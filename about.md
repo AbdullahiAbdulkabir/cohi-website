@@ -13,13 +13,13 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<h2 class="font-weight-bold mt-5">COUNCIL OF HIGHER INSTITUTIONS</h2>
 		<h3>An Organ of MSSN Lagos State Area Unit</h3>
 	</div>
-	<div class="row">
+	<div class="row d-flex justify-content-center">
 		<div class="col-md-3">
 			<h4 class="mb-3">About COHI</h4>
 			<p>The Council of Higher Institutions (COHI) is an organ of Muslim Students’ Society of Nigeria, Lagos State Area Unit. Its utmost goal is the unification of all Muslim students on various campuses across Lagos State. Our core values are academic excellence, students’ welfare, moral rectitude, and spiritual uplift. For over two decades of existence, COHI have been at the forefront of bringing together Muslims in various campuses, maintaining the core values of Islam without compromise despite the overwhelming influence of divergent civilization on students.</p>
 		</div>
 		<div class="col-md-3">
-			<div class="row">
+			<div class="row m-auto">
 				<h4 class="mb-3">Mission Statement</h4>
 					<p>The emergence of the Council of Higher Institutions [COHI] was as a result of the large communication gap that existed within the higher institution circle and their inability to exist as a single functional unit. The need for a virile avenue where Muslims in this institutions will come together to address common challenges and proffer solutions to such was felt and steps were taken to remedy the situation. COHI thus emerged to represent the united voice of Muslim students in our institutions, championing their rights and earning them a consideration with policy making bodies of the schools. </p>
 			</div>
@@ -136,7 +136,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		</div>
 	</div>
 	<!-- /.row -->
-	<div class="row"> <!--Executives 3rd line-->
+	<div class="row d-flex justify-content-center"> <!--Executives 3rd line-->
 		<!-- Team Member 9 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
@@ -229,7 +229,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<div class="text-center mb-5">
 			<h3 class=" mt-5">Gallery</h3>
 		</div>
-		<div class="gallery" id="gallery">
+		<div class="gallery mb-5" id="gallery">
 		<!-- Grid column -->
 		<div class="mb-3 pics animation all 2">
 			<img class="img-fluid" src="assets/imgs/gallery/pic1.jpg" alt="Card image cap">
