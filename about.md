@@ -106,7 +106,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 			<h5 class="card-title mb-0">Female Coordinator</h5>
 			<div class="card-text text-black-50">QuratulAyn Zafaran</div>
 			<div class="card-text text-black-50">College of Medicine University of Lagos</div>
-			<div class="card-text text-black-50">Medicine | 500Lr</div>
+			<div class="card-text text-black-50">Medicine | 500L</div>
 			</div>
 		</div>
 		</div>
