@@ -13,13 +13,103 @@ bimg: https://via.placeholder.com/10
 	</div> --> 
 	<div class="container pt-5">
 		
-	<h2 class="font-weight-bold">Our Affliates</h2>
+	<h2 class="font-weight-bold">Our Affiliates</h2>
 	<h2 class=" mt-5 row">
 		2 Universities, 2 Colleges of Medicine, <br/> 6 Polytechnic, 4 College of Education, <br/> and 7 Other Colleges and Institute. 
 	</h2>
 	</div>
 </div>
 <div class="container affliate">
+	<div class="affliates ">
+		<h2 class="text-center heading"> Universities</h2>
+		<div class="row justify-content-center">
+			
+		{% for item in site.data.university %}
+		
+			<div class="card  m-3" style="width: 18rem;">
+			  	<img class="card-img-top" src="{{{item.img }}}}" alt="{{item.name}}">
+			  	<div class="card-body text-center affliates-card-body">
+				    <h4 class="card-title font-weight-bold">{{item.name}}</h4>
+				    <h6 class="card-title ">({{item.short}})</h6>
+				    <a href="{{item.link}}" target="_blank"><button class="btn btn-primary btn-sm" >About School</button></a>
+				 
+			  	</div>
+			</div>
+		{% endfor %} 
+		</div>
+
+		<h2 class="text-center heading mt-4"> Colleges of Medicine</h2>
+		<div class="row justify-content-center">
+			
+		{% for item in site.data.com %}
+		
+			<div class="card  d-flex justify-content-center m-3" style="width: 18rem; ">
+			  	<img class="card-img-top" src="{{{item.img }}}}" alt="{{item.name}}">
+			  	<div class="card-body text-center affliates-card-body">
+				    <h4 class="card-title  font-weight-bold">{{item.name}}</h4>
+				    <h6 class="card-title  ">({{item.short}})</h6>
+				    <a href="{{item.link}}" target="_blank"><button class="btn btn-primary btn-sm" >About School</button></a>
+				    
+			  	</div>
+			</div>
+		{% endfor %} 
+		</div>
+		<!-- Polytechnics -->
+		<h2 class="text-center heading mt-4"> Polytechnics</h2>
+		<div class="row justify-content-center">
+			
+		{% for item in site.data.polytechnics %}
+		
+			<div class="card  d-flex justify-content-center m-3" style="width: 18rem; ">
+			  	<img class="card-img-top" src="{{{item.img }}}}" alt="{{item.name}}">
+			  	<div class="card-body text-center affliates-card-body">
+				    <h4 class="card-title  font-weight-bold">{{item.name}}</h4>
+				    <h6 class="card-title  ">({{item.short}})</h6>
+				    <a href="{{item.link}}" target="_blank"><button class="btn btn-primary btn-sm" >About School</button></a>
+				    
+			  	</div>
+			</div>
+		{% endfor %} 
+		</div>
+
+		<!-- COE -->
+		<h2 class="text-center heading mt-4"> Colleges of Education</h2>
+		<div class="row justify-content-center">
+			
+		{% for item in site.data.coe %}
+		
+			<div class="card  d-flex justify-content-center m-3" style="width: 18rem; ">
+			  	<img class="card-img-top" src="{{{item.img }}}}" alt="{{item.name}}">
+			  	<div class="card-body text-center affliates-card-body">
+				    <h4 class="card-title  font-weight-bold">{{item.name}}</h4>
+				    <h6 class="card-title  ">({{item.short}})</h6>
+				    <a href="{{item.link}}" target="_blank"><button class="btn btn-primary btn-sm" >About School</button></a>
+				    
+			  	</div>
+			</div>
+		{% endfor %} 
+		</div>
+
+		<!-- Colleges of Institute -->
+		<h2 class="text-center heading mt-4"> Colleges of Institute</h2>
+		<div class="row justify-content-center">
+			
+		{% for item in site.data.cinstitute %}
+		
+			<div class="card  d-flex justify-content-center m-3" style="width: 18rem; ">
+			  	<img class="card-img-top" src="{{{item.img }}}}" alt="{{item.name}}">
+			  	<div class="card-body text-center affliates-card-body">
+				    <h4 class="card-title  font-weight-bold">{{item.name}}</h4>
+				    <h6 class="card-title  ">({{item.short}})</h6>
+				    <a href="{{item.link}}"target="_blank" ><button class="btn btn-primary btn-sm" >About School</button></a>
+				    
+			  	</div>
+			</div>
+		{% endfor %} 
+		</div>
+		
+	</div>
+	<!-- affiliates -->
 
 
 </div>

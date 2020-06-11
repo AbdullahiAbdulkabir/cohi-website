@@ -297,7 +297,17 @@ content: ">>";
 
 	font-size: 3.5vw;
 }
+.affliates-card-body{
+	color: #fff;
+	background: #212240;
 
+}
+.affliates-card-body h4{
+	color: #fff;
+}
+.affliates .heading{
+	font-weight: bold;
+}
 /* equal card height */
 .row-equal > div[class*='col-'] {
     display: flex;

@@ -1,0 +1,16 @@
+- name: Institution name
+  short: Abbr 
+  img: https://via.placeholder.com/10
+  link: http://link
+- name: Institution name
+  short:  Abbr
+  img: https://via.placeholder.com/10
+  link: http://link
+- name: Institution name
+  short: Abbr 
+  img: https://via.placeholder.com/10
+  link: http://
+- name: Institution name
+  short:  Abbr
+  img: https://via.placeholder.com/10
+  link: http://
