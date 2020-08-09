@@ -47,90 +47,126 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 			</div>
 		</div>
 		</div>
+		<!-- Team Member 1.1 -->
+		<div class="col-xl-3 col-md-6 mb-4">
+		<div class="card border-0 shadow">
+			<img src="assets/imgs/team/yusuf.png" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			<h5 class="card-title mb-0">Deputy Coordinator</h5>
+			<div class="card-text text-black-50">Yusuf Oyenikun</div>
+			<div class="card-text text-black-50">University of Lagos</div>
+			<div class="card-text text-black-50">Fisheries</div>
+			</div>
+		</div>
+		</div>
 		<!-- Team Member 2 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/saheed.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/saheedd.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Secretary General</h5>
-			<div class="card-text text-black-50">Apampa Saheed Olamilekan</div>
+			<div class="card-text text-black-50">Abdulhafeez Odusanya </div>
 			<div class="card-text text-black-50">Lagos State University, Ojo</div>
-			<div class="card-text text-black-50">LAW | 400L</div>
+			<div class="card-text text-black-50">Education Management </div>
+			</div>
+		</div>
+		</div>
+		<!-- Team Member 2.2 -->
+		<div class="col-xl-3 col-md-6 mb-4">
+		<div class="card border-0 shadow">
+			<img src="assets/imgs/team/saheedd.png" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			<h5 class="card-title mb-0">Asst. Secretary General</h5>
+			<div class="card-text text-black-50">Abdulmaalik Adebayo  </div>
+			<div class="card-text text-black-50">Lagos State University, Epe</div>
+			<div class="card-text text-black-50">Electrical/Electronic Engineering </div>
 			</div>
 		</div>
 		</div>
 		<!-- Team Member 3 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/habeeb.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/habeebs.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Public Relations Officer</h5>
-			<div class="card-text text-black-50">Akorede Habeebullah A.</div>
-			<div class="card-text text-black-50">Lagos State University, Ojo</div>
-			<div class="card-text text-black-50">Physics Education | 300L</div>
+			<div class="card-text text-black-50">Ibrahim Ismail </div>
+			<div class="card-text text-black-50">LASUCOM</div>
+			<div class="card-text text-black-50">Physiology</div>
 			</div>
 		</div>
 		</div>
 		<!-- Team Member 4 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/ismail.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/ismaill.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Financial Secretary</h5>
-			<div class="card-text text-black-50">Olaiya Adeyemi Ismail</div>
-			<div class="card-text text-black-50">Lagos State Polytechnic</div>
-			<div class="card-text text-black-50">Accountancy | HND2</div>
+			<div class="card-text text-black-50">Yusuf Olatunji Bakare</div>
+			<div class="card-text text-black-50">FCE(T)</div>
+			<div class="card-text text-black-50">Business Education </div>
+			</div>
+		</div>
+		</div>
+		<!-- Team Member 4.5 -->
+		<div class="col-xl-3 col-md-6 mb-4">
+		<div class="card border-0 shadow">
+			<img src="assets/imgs/team/habeebs.png" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			<h5 class="card-title mb-0">Welfare (Male)</h5>
+			<div class="card-text text-black-50">: Aminu Muhammad Kazeem </div>
+			<div class="card-text text-black-50">Federal School of Marine and Fisheries Science (Oceanography)</div>
+			<div class="card-text text-black-50">Nautical Science</div>
+			</div>
+		</div>
+		</div>
+		<!-- Team Member 5 -->
+		<div class="col-xl-3 col-md-6 mb-4">
+		<div class="card border-0 shadow">
+			<img src="assets/imgs/team/basitt.png" class="card-img-top" alt="...">
+			<div class="card-body text-center">
+			<h5 class="card-title mb-0">Editor</h5>
+			<div class="card-text text-black-50">Abdulgafar Olamilekan</div>
+			<div class="card-text text-black-50">LASUCOM</div>
+			<div class="card-text text-black-50"> Olanshile Dentistry</div>
 			</div>
 		</div>
 		</div>
 	</div>
 	<!-- /.row -->
-	<div class="row"> <!--Executives 2nd line-->
-		<!-- Team Member 5 -->
-		<div class="col-xl-3 col-md-6 mb-4">
-		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/basit.png" class="card-img-top" alt="...">
-			<div class="card-body text-center">
-			<h5 class="card-title mb-0">Editor</h5>
-			<div class="card-text text-black-50">Abdullah Abdulkabir</div>
-			<div class="card-text text-black-50">University of Lagos</div>
-			<div class="card-text text-black-50">Systems Engineering | 400L</div>
-			</div>
-		</div>
-		</div>
+	<div class="row text-center justify-content-center"> <!--Executives 2nd line-->
 		<!-- Team Member 6 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/aisha.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/aisaha.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Female Coordinator</h5>
-			<div class="card-text text-black-50">QuratulAyn Zafaran</div>
-			<div class="card-text text-black-50">College of Medicine University of Lagos</div>
-			<div class="card-text text-black-50">Medicine | 500L</div>
+			<div class="card-text text-black-50">Sumayyah Ajani</div>
+			<div class="card-text text-black-50">University of Lagos</div>
+			<div class="card-text text-black-50">Law</div>
 			</div>
 		</div>
 		</div>
 		<!-- Team Member 7 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/fatima.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/fatimaa.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Deputy Female coordinator</h5>
-			<div class="card-text text-black-50">Balogun Fatimah Modupe</div>
-			<div class="card-text text-black-50">Lagos State Polytechnic</div>
-			<div class="card-text text-black-50">Chemical Engineering | HND 2</div>
+			<div class="card-text text-black-50">Zaynab Gaji </div>
+			<div class="card-text text-black-50">LASUCOM</div>
+			<div class="card-text text-black-50">Medicine and Surgery</div>
 			</div>
 		</div>
 		</div>
 		<!-- Team Member 8 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/aisha.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/aisaha.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Female Secretary</h5>
-			<div class="card-text text-black-50">Osinowo Aishah</div>
-			<div class="card-text text-black-50">University of Lagos</div>
-			<div class="card-text text-black-50">Physics Education | 400L</div>
+			<div class="card-text text-black-50">Aminat Akinola </div>
+			<div class="card-text text-black-50">Yabatech</div>
+			<div class="card-text text-black-50">|</div>
 			</div>
 		</div>
 		</div>
@@ -140,36 +176,36 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 9 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/sofiya.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/sofiyaa.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Treasurer</h5>
-			<div class="card-text text-black-50">Maruf Sofiyyah</div>
-			<div class="card-text text-black-50">Yaba College of Technology</div>
-			<div class="card-text text-black-50">Marketing | HND 2</div>
+			<div class="card-text text-black-50">Sekeenat Abdulwahab</div>
+			<div class="card-text text-black-50">|</div>
+			<div class="card-text text-black-50"> | </div>
 			</div>
 		</div>
 		</div>
 		<!-- Team Member 10 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/sumaya.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/sumaaya.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Female PRO</h5>
-			<div class="card-text text-black-50">Abdulkareem Sumayah</div>
-			<div class="card-text text-black-50">Lagos state university college of Medicine</div>
-			<div class="card-text text-black-50">Nursing | 300L</div>
+			<div class="card-text text-black-50">Arafat Ajibola </div>
+			<div class="card-text text-black-50">FCET</div>
+			<div class="card-text text-black-50"> |</div>
 			</div>
 		</div>
 		</div>
 		<!-- Team Member 11 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/latifa.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/latiafa.png" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Welfare officer</h5>
-			<div class="card-text text-black-50">Oduntan Lateefah</div>
-			<div class="card-text text-black-50">Federal College of Education (technical) Akoka</div>
-			<div class="card-text text-black-50">Business Education (Accounting) | NCE III</div>
+			<div class="card-text text-black-50">Nusaybah Agbabiaka  </div>
+			<div class="card-text text-black-50">AOCOED</div>
+			<div class="card-text text-black-50">PHY/Maths</div>
 			</div>
 		</div>
 		</div>
