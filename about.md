@@ -31,7 +31,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 	</div>
 	<!-- executives -->
 	<div class="text-center mb-5">
-		<h3 class=" mt-5">COHI Executive Cabinet</h3>
+		<h3 class=" mt-5">2020: COHI Executive Cabinet</h3>
 		<h4 class="text-center">The Inclusiveness and Dynamism team</h4>
 	</div>
 	<div class="row"> <!--Executives 1st line-->
@@ -50,7 +50,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 1.1 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/yusuf.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Deputy Coordinator</h5>
 			<div class="card-text text-black-50">Yusuf Oyenikun</div>
@@ -62,7 +62,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 2 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/saheedd.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Secretary General</h5>
 			<div class="card-text text-black-50">Abdulhafeez Odusanya </div>
@@ -74,7 +74,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 2.2 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/saheedd.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Asst. Secretary General</h5>
 			<div class="card-text text-black-50">Abdulmaalik Adebayo  </div>
@@ -86,7 +86,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 3 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/habeebs.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Public Relations Officer</h5>
 			<div class="card-text text-black-50">Ibrahim Ismail </div>
@@ -98,7 +98,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 4 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/ismaill.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Financial Secretary</h5>
 			<div class="card-text text-black-50">Yusuf Olatunji Bakare</div>
@@ -110,7 +110,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 4.5 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/habeebs.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Welfare (Male)</h5>
 			<div class="card-text text-black-50">: Aminu Muhammad Kazeem </div>
@@ -122,7 +122,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 5 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/basitt.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Editor</h5>
 			<div class="card-text text-black-50">Abdulgafar Olamilekan</div>
@@ -137,7 +137,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 6 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/aisaha.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/sumayyah.jpeg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Female Coordinator</h5>
 			<div class="card-text text-black-50">Sumayyah Ajani</div>
@@ -149,7 +149,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 7 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/fatimaa.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Deputy Female coordinator</h5>
 			<div class="card-text text-black-50">Zaynab Gaji </div>
@@ -161,7 +161,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 8 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/aisaha.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Female Secretary</h5>
 			<div class="card-text text-black-50">Aminat Akinola </div>
@@ -176,7 +176,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 9 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/sofiyaa.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Treasurer</h5>
 			<div class="card-text text-black-50">Sekeenat Abdulwahab</div>
@@ -188,7 +188,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 10 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/sumaaya.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Female PRO</h5>
 			<div class="card-text text-black-50">Arafat Ajibola </div>
@@ -200,7 +200,7 @@ bimg: https://visualhunt.com/photos/l/1/office-student-work-study.jpg
 		<!-- Team Member 11 -->
 		<div class="col-xl-3 col-md-6 mb-4">
 		<div class="card border-0 shadow">
-			<img src="assets/imgs/team/latiafa.png" class="card-img-top" alt="...">
+			<img src="assets/imgs/team/user.jpg" class="card-img-top" alt="...">
 			<div class="card-body text-center">
 			<h5 class="card-title mb-0">Welfare officer</h5>
 			<div class="card-text text-black-50">Nusaybah Agbabiaka  </div>
