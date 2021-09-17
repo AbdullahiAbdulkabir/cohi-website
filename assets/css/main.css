@@ -112,12 +112,14 @@ ul {
 li {
  list-style:none;
 }
+
 a:focus,a:hover {
  text-decoration:none;
  -webkit-transition:.3s ease;
  -o-transition:.3s ease;
  transition:.3s ease
 }
+
 a:focus {
  outline:0;
 }
@@ -139,7 +141,7 @@ a {
  line-height:40px;
  cursor:pointer;
  width:40px;
- background:#5867dd;
+ background:#21e810;
  color:#fff;
  position:fixed;
  -webkit-box-shadow:0 4px 4px rgba(0,0,0,.1);
@@ -160,11 +162,10 @@ a {
 	color: #fff;
 }
 .footer-big {
-	
- padding:105px 0 65px 0
+ padding:75px 0 50px 0
 }
 .footer-big .footer-widget {
- margin-bottom:40px
+ margin-bottom: 10px
 }
 .footer--light {
  background:#e7e8ed
@@ -370,4 +371,19 @@ content: ">>";
 .content-hero h2{
 
 	font-size: 3.5vw;
+}
+
+@media screen and (min-width: 768px) {
+    .exco {
+		width: 255px;
+		height: 215px;
+	}
+}
+
+.exco {
+	max-height: 400px;
+}
+
+#arrow {
+	color: #fff im !important;
 }
