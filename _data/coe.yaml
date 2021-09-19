@@ -1,0 +1,16 @@
+- name: Federal College of Education (Technical),Akoka
+  short: FCET 
+  img: assets/imgs/affiliate-img/FCET.png
+  link: http://link
+- name: Adeniran Ogunsanya College Of Education
+  short:  AOCED
+  img: assets/imgs/affiliate-img/aocoed.png
+  link: http://aocoed.edu.ng
+- name: Michael Otedola College Of Primary Education
+  short: MOCPED 
+  img: assets/imgs/affiliate-img/mocped.png
+  link: http://mocped.edu.ng
+- name: St Augustine's College Of Education
+  short:  SACOED
+  img: assets/imgs/affiliate-img/sacoed.png
+  link: http://sacoed.edu.ng

@@ -1,0 +1,28 @@
+- name: Federal Colledge Of Fisheries
+  short: FCFMT 
+  img: assets/imgs/affiliate-img/oceonography.png
+  link: http://link
+- name: Federal College Of Orthopedic Technology, Igbobi
+  short:  FECOT
+  img: assets/imgs/affiliate-img/fecot.png
+  link: http://link
+- name: Lagos State College of Health Technology
+  short: LASCOHET 
+  img: assets/imgs/affiliate-img/LASCOHET.png
+  link: http://lascohet.com
+- name: Nigerian Army college Of Nursing
+  short:  NACON
+  img: assets/imgs/affiliate-img/NAHCON.png
+  link: http://
+- name: IFederal School Of Occupational Therapy
+  short: FSOT 
+  img: assets/imgs/affiliate-img/fsot.png
+  link: http://
+- name: Nigerian Institute of Journalism
+  short:  NIJ
+  img: assets/imgs/affiliate-img/nij.png
+  link: http://nij.edu.ng
+- name: Nigeria Law School
+  short: NLS 
+  img: assets/imgs/affiliate-img/law.png
+  link: http://www.lawschoollagos.org/

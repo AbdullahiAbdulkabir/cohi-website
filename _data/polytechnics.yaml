@@ -1,0 +1,24 @@
+- name: Yaba College of Technology
+  short: Yabatech 
+  img: assets/imgs/affiliate-img/Yabatech.png
+  link: /contents/yabatech.html
+- name: Lagos State polytechnics, Isolo
+  short:  LASPOTECH
+  img: assets/imgs/affiliate-img/laspotech.png
+  link: https://www.mylaspotech.edu.ng/
+- name: Lagos State Polytechnic, Ikorodu
+  short:  LASPOTECH
+  img: assets/imgs/affiliate-img/laspotech-1.png
+  link: https://www.mylaspotech.edu.ng/
+- name: Lagos State Polytechnic, Ikeja
+  short: LASPOTECH 
+  img: assets/imgs/affiliate-img/laspotech-2.png
+  link: https://www.mylaspotech.edu.ng/
+- name: Lagos City Polytechnic
+  short:  lagoscity
+  img: assets/imgs/affiliate-img/lagoscity.png
+  link: https://lagoscitypolytechnic.edu.ng/
+- name: Grace polytechnic
+  short:  GracePoly
+  img: assets/imgs/affiliate-img/grace.png
+  link: https://gracepolytechnic.com/

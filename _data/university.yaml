@@ -1,0 +1,11 @@
+- name: University of Lagos
+  short: UNILAG 
+  img: assets/imgs/affiliate-img/unilag.png 
+  link: /contents/unilag.html
+- name: Lagos State University, Epe Campus
+  short: LASU 
+  img: assets/imgs/affiliate-img/lasu.png
+  link: http://lasu.edu.ng/
+
+
+
