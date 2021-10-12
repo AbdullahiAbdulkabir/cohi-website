@@ -36,4 +36,10 @@
       flex: 100%;
       max-width: 100%;
     }
+    .intro {
+      margin-top: 50px !important;
+      display: flex !important;
+      justify-content: center !important;
+      flex-direction: column !important;
+    }
   }
